@@ -32,7 +32,6 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mystic-miracle&theme=onedark_duo&sideNums=7ED9DD&sideLabels=DD2727&fire=DD2727&ring=DD5916&currStreakNum=DDD346&currStreakLabel=D7DD16&dates=6586DD)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-miracle&theme=tokyonight)
 
 
 
